@@ -1,6 +1,6 @@
-# 🛡️ CMMC CCP Self-Assessment Tool
+# 🛡️ CMMC CCP Self-Assessment Tool : https://docs.google.com/spreadsheets/d/1qKf63J2yZlCYPIZkqLLNAXGO0bIMAwkmACRbxdI9Urg/edit?gid=0#gid=0
 
-This is a lightweight and easy-to-use self-assessment tool designed to help small businesses or students better understand and evaluate their compliance with **CMMC 2.0 Level 2** practices. Built using **Google Sheets**, this tool allows users to track controls, mark compliance, and calculate an estimated SPRS score.
+This is a lightweight and easy-to-use self-assessment tool designed on google sheet to help small businesses or students better understand and evaluate their compliance with **CMMC 2.0 Level 2** practices. Built using **Google Sheets**, this tool allows users to track controls, mark compliance, and calculate an estimated SPRS score.
 
 ---
 
@@ -65,8 +65,7 @@ This tool is for **educational and demonstration purposes only**. It is not an o
 
 **Anthony**  
 Cybersecurity & Cloud Enthusiast  
-📧 [YourEmail@example.com]  
-🔗 [LinkedIn Profile] (optional)
+🔗[ [LinkedIn Profile] (https://www.linkedin.com/in/anthony-ajaero-5602b4127/)
 
 ---
 
